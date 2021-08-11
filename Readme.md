@@ -1,6 +1,6 @@
 SUMMARY
 
-This is the final project from my Fall 2020 course: CS104 (Data Structures and Object Oriented Design)
+This is the final project from my Fall 2020 course: Data Structures and Object Oriented Design
 
 In this project, I built a version of Scrabble which supported both human and computer players. The game can be configured to run on any specified dictionary, tile bag, and board specifications (see "config").
 
@@ -10,7 +10,7 @@ The scrabble game was tested for functionality in a wide range of scenarios: the
 
 ENVIRONMENT
 
-The scrabble game is intended to be run in the Docker virtual environment that we have been using throughout the semester for CS104. Details on the environment are in the Repo: "Docker"
+The scrabble game is intended to be run in the Docker virtual environment that we have been using throughout the semester. Details on the environment are in the Repo: "Docker"
 
 INSTRUCTIONS
 
